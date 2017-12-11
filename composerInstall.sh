@@ -3,7 +3,7 @@
 # País: Brasil
 # Author:  Heuder Rodrigues de Sena
 # E-mail: programadorwebti@gmail.com
-# Telegran: @Heuderrodriguesdesena
+# Telegram: @Heuderrodriguesdesena
 # Phone: +5561993029884
 
 sudo apt-get install curl
